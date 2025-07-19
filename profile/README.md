@@ -1,7 +1,7 @@
 # OvenMDK
 Offical site: http://ovenmdk-docs.vercel.app/
 # What is OvenMDK?
-OvenMDK stands for ( idk at the time of writing )
+OvenMDK stands for Oven Mod Development Kit
 
 # What is EagMan? ( Prob cancelled???)
-EagMan is a eaglerforge dependency manager used to manage dependencies.
+EagMan is an EaglerForge dependency manager used to manage dependencies.
